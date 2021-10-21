@@ -179,18 +179,10 @@
 			path = Storyboard;
 			sourceTree = "<group>";
 		};
-		F4AC531B272087AA0084EA66 /* Xibs */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Xibs;
-			sourceTree = "<group>";
-		};
 		F4AC531C272087FC0084EA66 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
 				F4AC531A2720879C0084EA66 /* Storyboard */,
-				F4AC531B272087AA0084EA66 /* Xibs */,
 			);
 			path = Assets;
 			sourceTree = "<group>";
